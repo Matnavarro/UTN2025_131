@@ -53,8 +53,8 @@ console.log(saludarPersona("Nahuel"));
 
 
 // 2. Sin parametros
-const saludar = () => console.log("Hola!");
-saludar();
+const saludar8 = () => console.log("Hola!");
+saludar8();
 
 // 3. Un solo parametro
 const cuadrado = x => x * x; 
